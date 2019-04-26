@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/lavanya/Documents/Dev/accidentBack/conf/application.conf,/Users/lavanya/Documents/Dev/accidentBack/target/scala-2.12/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/lavanya/Documents/Dev/accidentBack/conf/logback.xml,/Users/lavanya/Documents/Dev/accidentBack/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/lavanya/Documents/Dev/accidentBack/conf/META-INF,/Users/lavanya/Documents/Dev/accidentBack/target/scala-2.12/classes/META-INF)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/lavanya/Documents/Dev/accidentBack/conf/META-INF/persistence.xml,/Users/lavanya/Documents/Dev/accidentBack/target/scala-2.12/classes/META-INF/persistence.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/lavanya/Documents/Dev/accidentBack/conf/routes,/Users/lavanya/Documents/Dev/accidentBack/target/scala-2.12/classes/routes)[0m

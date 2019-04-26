@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/lavanya/Documents/Dev/accidentBack/app/controllers/UserController.java:63:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m        final String long1 = "78.3985267"[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/lavanya/Documents/Dev/accidentBack/app/controllers/UserController.java:72:1: ';' expected[0m
+[0m[[0m[31merror[0m] [0m[0m        user.setLongitude(long1)[0m
